@@ -53,13 +53,6 @@
   </tr>
 </table>
 
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohammad-mesgarzadeh" alt="mohammad-mesgarzadeh" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 💬 Ask me about **Htmlt , css ,tawilwind, js, responsive,**
-
 - 📫 How to reach me **mohammadmesgarzadeh8@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
