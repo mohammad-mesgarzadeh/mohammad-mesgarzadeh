@@ -53,17 +53,10 @@
   </tr>
 </table>
 
-- 📫 How to reach me **mohammadmesgarzadeh8@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/mohammad-mesgarzadeh-a5422837a" target="_blank">
-  	<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammad-mesgarzadeh" height="30" width="40" />
-  </a>
-</p>
-
 # 💫 About Me:
-Frontend Developer | React • TypeScript • JavaScript | Passionate About Building Modern, Responsive, and Performant Web Applications
+Front-End Developer passionate about building modern, responsive, and user-friendly web applications.
+I work primarily with React, TypeScript, Next.js, Tailwind CSS, and Bootstrap, focusing on creating clean interfaces and delivering smooth user experiences.
+I enjoy turning ideas into functional products, improving application performance, and continuously learning new technologies. Currently, I am expanding my skills in modern frontend development and building real-world projects to strengthen my expertise.
 
 
 ## 🌐 Socials:
