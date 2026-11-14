@@ -51,6 +51,14 @@ I'm a Frontend Developer who enjoys turning ideas into fast, responsive, and pol
 
 <br>
 
+<div align="center">
+
+### Contribution Activity
+
+<img src="https://raw.githubusercontent.com/mohammad-mesgarzadeh/mohammad-mesgarzadeh/output/github-snake-dark.svg" alt="GitHub Contribution Snake" width="100%" />
+
+</div>
+
 ## Connect With Me
 
 <div align="center">
