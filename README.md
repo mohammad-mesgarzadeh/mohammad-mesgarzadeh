@@ -1,48 +1,44 @@
 <div align="center">
 
-# Mohammad Mesgarzadeh
+![Mohammad Mesgarzadeh - Frontend Developer](https://capsule-render.vercel.app/api?type=waving&color=0:0b1020,50:6d5dfc,100:00d4ff&height=230&section=header&text=Mohammad%20Mesgarzadeh&fontSize=46&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Frontend%20Developer&descSize=20&descAlignY=58)
 
-### Frontend Developer
-
-*Crafting clean, fast, and user-friendly interfaces.*
+[![Typing animation of my roles](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=7C83FF&center=true&vCenter=true&width=640&height=50&lines=Frontend+Developer;React+%26+Next.js+Developer;TypeScript+Enthusiast;Building+Modern+Web+Experiences;Turning+Ideas+Into+Interactive+Interfaces)](https://github.com/mohammad-mesgarzadeh)
 
 ![Profile views](https://komarev.com/ghpvc/?username=mohammad-mesgarzadeh&label=Profile%20views&color=6d5dfc&style=flat-square)
 
 </div>
 
----
+<br>
 
 ## About Me
 
-I'm a Frontend Developer passionate about building modern, responsive, and user-friendly web applications. I work primarily with **React**, **TypeScript**, **Next.js**, **Tailwind CSS**, and **Bootstrap**.
+I'm a Frontend Developer who enjoys turning ideas into fast, responsive, and polished web applications. My daily toolkit is **React**, **Next.js**, **TypeScript**, **Tailwind CSS**, and **Bootstrap**.
 
-I enjoy turning ideas into functional products, and I care about:
-
-- **Clean interfaces** that are simple to use and easy to maintain
+- **Clean interfaces** that feel intuitive and stay easy to maintain
 - **Performance** and smooth user experiences
-- **Continuous learning**, building real-world projects to sharpen my skills
+- **Continuous learning** through real-world projects
 
----
+<br>
 
 ## Tech Stack
 
 <div align="center">
 
-**Frontend Development**
+**Frontend**
 
 ![React, Next.js, JavaScript, TypeScript, HTML5, CSS3](https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css&theme=dark)
 
 **Styling**
 
-![Tailwind CSS, Bootstrap](https://skillicons.dev/icons?i=tailwind,bootstrap&theme=dark)
+![Tailwind CSS and Bootstrap](https://skillicons.dev/icons?i=tailwind,bootstrap&theme=dark)
 
-**Development Tools**
+**Tools**
 
 ![Git, GitHub, Visual Studio Code](https://skillicons.dev/icons?i=git,github,vscode&theme=dark)
 
 </div>
 
----
+<br>
 
 ## GitHub Statistics
 
@@ -53,7 +49,7 @@ I enjoy turning ideas into functional products, and I care about:
 
 </div>
 
----
+<br>
 
 ## Connect With Me
 
@@ -61,5 +57,13 @@ I enjoy turning ideas into functional products, and I care about:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohammad%20Mesgarzadeh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammad-mesgarzadeh-a5422837a)
 [![Email](https://img.shields.io/badge/Email-m__mesgarzadeh%40yahoo.com-6001D2?style=for-the-badge&logo=yahoo&logoColor=white)](mailto:m_mesgarzadeh@yahoo.com)
+
+</div>
+
+<br>
+
+<div align="center">
+
+![Footer wave](https://capsule-render.vercel.app/api?type=waving&color=0:0b1020,50:6d5dfc,100:00d4ff&height=120&section=footer&reversal=true)
 
 </div>
