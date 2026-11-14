@@ -22,8 +22,6 @@ I'm a Frontend Developer who enjoys turning ideas into fast, responsive, and pol
 
 ## Tech Stack
 
-## Tech Stack
-
 <div align="center">
 
 ![Typing animation of my tech stack](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=900&color=7C83FF&center=true&vCenter=true&width=360&height=32&lines=React+%26+Next.js;JavaScript+%26+TypeScript;Tailwind+CSS+%26+Bootstrap;Git+%26+GitHub)
