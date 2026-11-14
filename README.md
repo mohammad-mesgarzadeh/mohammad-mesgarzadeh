@@ -22,19 +22,15 @@ I'm a Frontend Developer who enjoys turning ideas into fast, responsive, and pol
 
 ## Tech Stack
 
+## Tech Stack
+
 <div align="center">
 
-**Frontend**
+![Typing animation of my tech stack](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=900&color=7C83FF&center=true&vCenter=true&width=360&height=32&lines=React+%26+Next.js;JavaScript+%26+TypeScript;Tailwind+CSS+%26+Bootstrap;Git+%26+GitHub)
 
-![React, Next.js, JavaScript, TypeScript, HTML5, CSS3](https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css&theme=dark)
-
-**Styling**
-
-![Tailwind CSS and Bootstrap](https://skillicons.dev/icons?i=tailwind,bootstrap&theme=dark)
-
-**Tools**
-
-![Git, GitHub, Visual Studio Code](https://skillicons.dev/icons?i=git,github,vscode&theme=dark)
+<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css&theme=dark" height="42" alt="React, Next.js, JavaScript, TypeScript, HTML5, CSS3" />
+<br>
+<img src="https://skillicons.dev/icons?i=tailwind,bootstrap,git,github,vscode&theme=dark" height="42" alt="Tailwind CSS, Bootstrap, Git, GitHub, Visual Studio Code" />
 
 </div>
 
